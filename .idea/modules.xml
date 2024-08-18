@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllAboutString/AllAboutString.iml" filepath="$PROJECT_DIR$/AllAboutString/AllAboutString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassPart/ClassPart.iml" filepath="$PROJECT_DIR$/ClassPart/ClassPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructorchallenge/Constructorchallenge.iml" filepath="$PROJECT_DIR$/Constructorchallenge/Constructorchallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DailyCoding/DailyCoding.iml" filepath="$PROJECT_DIR$/DailyCoding/DailyCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputTest/InputTest.iml" filepath="$PROJECT_DIR$/InputTest/InputTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Intelli.iml" filepath="$PROJECT_DIR$/.idea/Java Intelli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-learning-code/Java-learning-code.iml" filepath="$PROJECT_DIR$/Java-learning-code/Java-learning-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewGit/NewGit.iml" filepath="$PROJECT_DIR$/NewGit/NewGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scane/Scane.iml" filepath="$PROJECT_DIR$/Scane/Scane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringFormatting/StringFormatting.iml" filepath="$PROJECT_DIR$/StringFormatting/StringFormatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringOptions/StringOptions.iml" filepath="$PROJECT_DIR$/StringOptions/StringOptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumDigit/SumDigit.iml" filepath="$PROJECT_DIR$/SumDigit/SumDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExpression/SwitchExpression.iml" filepath="$PROJECT_DIR$/SwitchExpression/SwitchExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" filepath="$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-learning-code/test/test.iml" filepath="$PROJECT_DIR$/Java-learning-code/test/test.iml" />
+    </modules>
+  </component>
+</project>

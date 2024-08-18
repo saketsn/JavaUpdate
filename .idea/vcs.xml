@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClassPart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Constructorchallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DailyCoding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InheritanceChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-learning-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-learning-code/Java-learning-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-learning-code/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecordProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StringFormatting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StringOptions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwitchExpression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThePrimeNumberChallenge" vcs="Git" />
+  </component>
+</project>
